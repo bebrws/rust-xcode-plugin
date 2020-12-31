@@ -24,3 +24,7 @@ Place the `Plug-ins` folders in `~/Library/Developer/Xcode`
 Place the `Rust.xclangspec` in `/Applications/Xcode.app/Contents/SharedFrameworks/SourceModel.framework/Versions/A/Resources/LanguageSpecifications`
 
 Place `Xcode.SourceCodeLanguage.Rust.plist` in `/Applications/Xcode.app/Contents/SharedFrameworks/SourceModel.framework/Versions/A/Resources/LanguageMetadata`
+
+# What I, Brad, has added
+
+A script, install.sh which will install the files for XCode and XCode-beta. It also has the plist file updated for XCode 11.6 and 12.3 beta.
